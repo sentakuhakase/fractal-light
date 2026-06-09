@@ -84,5 +84,4 @@ Fractal Light is:
 
 ## License
 
-No license is assigned in this public draft yet.  
-Choose an explicit license before publishing this folder as an independent repository.
+This repository is released under the MIT License. The design is provided for research, discussion, and implementation reference, without any claim of machine consciousness or personhood.
