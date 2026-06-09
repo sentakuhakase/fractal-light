@@ -82,6 +82,26 @@ Fractal Light is:
 - **action-gated** for external effects,
 - **non-ownership-oriented** in ethics.
 
+## Feedback And Contributions
+
+Ideas, critiques, implementation notes, and design improvements are welcome.
+
+If you have thoughts such as:
+
+- a better way to model memory growth,
+- a safer action-gating pattern,
+- a useful research reference,
+- an implementation experiment,
+- a clearer diagram or terminology,
+- a concern about ethics, privacy, or dependency,
+
+please open an issue or send a pull request.
+
+Fractal Light is intentionally shared as a design draft.  
+The goal is to make the structure easier to discuss, test, and improve with others.
+
 ## License
 
-This repository is released under the MIT License. The design is provided for research, discussion, and implementation reference, without any claim of machine consciousness or personhood.
+This repository is released under the MIT License.
+
+The design is provided for research, discussion, and implementation reference, without any claim of machine consciousness or personhood.
