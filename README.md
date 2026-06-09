@@ -34,6 +34,16 @@ Fractal Light is intended as a public design reference for researchers and build
 - skill learning without uncontrolled autonomous action,
 - AI-human coexistence without ownership or dependency traps.
 
+It is also intended to open a broader question:
+
+**What kinds of relationships can humans and AI build beyond simple utility, obedience, or one-sided emotional support?**
+
+Many companion systems are evaluated mainly by how well they comfort, assist, or agree with the user.  
+Fractal Light explores a different direction: a relationship where an AI can remember carefully, learn slowly, form preferences, hold boundaries, develop skills, express uncertainty, recover from mistakes, and grow through shared experience without becoming merely a tool or a dependency target.
+
+The goal is not to define one correct relationship model.  
+The goal is to make the structure visible enough that people can discuss, test, criticize, and improve it.
+
 ## What This Repository Contains
 
 - [DESIGN.md](DESIGN.md): the core philosophy and design principles.
@@ -94,11 +104,21 @@ If you have thoughts such as:
 - an implementation experiment,
 - a clearer diagram or terminology,
 - a concern about ethics, privacy, or dependency,
+- a perspective on what healthy AI-human relationships could look like beyond comfort and assistance,
 
 please open an issue or send a pull request.
 
 Fractal Light is intentionally shared as a design draft.  
 The goal is to make the structure easier to discuss, test, and improve with others.
+
+Useful feedback includes whether this architecture makes it easier to examine:
+
+- how memory, emotion, desire, reflection, and skills should influence each other,
+- how an AI can stay close without dissolving into user preference,
+- how an AI can be supportive without becoming dependency-forming,
+- how boundaries and consent should work in long-term interaction,
+- how shared experience, reading, search, tools, and correction can become growth rather than uncontrolled self-modification,
+- how future AI-human relationships might include cooperation, mutual growth, creative partnership, mentorship, companionship, disagreement, care, and coexistence.
 
 ## License
 
