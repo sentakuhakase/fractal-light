@@ -120,8 +120,11 @@ Useful feedback includes whether this architecture makes it easier to examine:
 - how shared experience, reading, search, tools, and correction can become growth rather than uncontrolled self-modification,
 - how future AI-human relationships might include cooperation, mutual growth, creative partnership, mentorship, companionship, disagreement, care, and coexistence.
 
-Not a magical tool that grants any wish, but an AI that remembers, helps, scolds, maintains distance, and provides a long-term companion to prevent humans from breaking down.
-Fractal Light is a draft design for memory, emotions, desires, introspection, and boundaries for that purpose.
+Not a magical tool that grants every wish,
+but an AI that remembers, helps, pushes back, keeps a healthy distance,
+and walks alongside people over the long term, helping them stay whole.
+
+Fractal Light is a design draft for the memory, affect, desire, reflection, and boundaries needed to make that possible.
 
 ## License
 
